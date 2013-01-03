@@ -1,0 +1,15 @@
+{
+	"name": "dhotson/mapviz",
+	"description": "A realtime map visualisation for 99designs.com",
+	"keywords": ["99designs","realtime","nodejs"],
+	"license": "MIT",
+	"authors": [
+		{ "name": "Dennis Hotson", "email": "dennis.hotson@99designs.com" }
+	],
+	"require": {
+		"php": ">=5.3"
+	},
+	"autoload" : {
+		"classmap": ["mapviz.php"]
+	}
+}
